@@ -1,1 +1,1 @@
-The agent uses Markov Decision Processes and the Value Iteration algorithm to find most optimal path from any state in the grid world.
+This is an interesting program that I wrote while taking Computer Security at UWaterloo. It uses stack buffer overflows to gain root access. Unfortunately, this technique would only have worked in the 90s, as compilers these days are developed to catch this technique.
