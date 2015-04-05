@@ -1,5 +1,7 @@
+Autocomplete
 
-Autocomplete & Trie class 
+===========
+
 Author: Devruth Khanna
 
 To implement autocomplete feature, the trie datastructure is used to print all words that have a given prefix. 
