@@ -1,1 +1,1 @@
-This is an interesting program that I wrote while taking Computer Security at UWaterloo. It uses stack buffer overflows to gain root access. Unfortunately, this technique would only have worked up until the 90s, as compilers these days are developed to catch this technique.
+
