@@ -87,7 +87,7 @@ public:
 		for (int i = 0; i < prefix.size(); ++i){
 			char cur_char = tolower(prefix[i]);
 			int posn = cur_char - 'a';
-		    n = n->children[posn];
+		        n = n->children[posn];
 			if (!n) return res;
 		}
 		string str;
